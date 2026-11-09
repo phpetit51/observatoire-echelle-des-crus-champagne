@@ -42,7 +42,6 @@ Présentation et mises à jour : [page Observatoire VITACEAE](https://vitaceae.f
 ## Autres dépôts du même jeu
 
 - data.gouv.fr : [Communes grand cru et premier cru de l'AOC Champagne](https://www.data.gouv.fr/datasets/communes-grand-cru-et-premier-cru-de-laoc-champagne-cahier-des-charges-2025-et-correspondance-au-code-officiel-geographique/)
-- data.public.lu : [même jeu](https://data.public.lu/fr/datasets/communes-grand-cru-et-premier-cru-de-laoc-champagne-cahier-des-charges-2025-et-correspondance-au-code-officiel-geographique/)
 - Figshare : DOI [10.6084/m9.figshare.34948810](https://doi.org/10.6084/m9.figshare.34948810)
 
 ## Licence
